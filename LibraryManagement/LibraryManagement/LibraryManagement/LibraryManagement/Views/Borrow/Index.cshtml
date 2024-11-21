@@ -1,0 +1,30 @@
+﻿@model IEnumerable<LibraryManagement.Models.Book>
+
+<h2>Available Books</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Title</td>
+                <td>
+                    @if (book.IsAvailable)
+                    {
+                        <a asp-action="Create" asp-controller="Borrow" asp-route-bookId="@book.BookId" class="btn btn-primary">Borrow</a>
+                    }
+                    else
+                    {
+                        <span class="text-danger" title="This book is currently checked out.">Not Available</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

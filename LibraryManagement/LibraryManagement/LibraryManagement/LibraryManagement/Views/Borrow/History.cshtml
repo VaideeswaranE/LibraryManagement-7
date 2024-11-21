@@ -1,0 +1,50 @@
+﻿@model IEnumerable<LibraryManagement.Models.BorrowRecord>
+
+@{
+    ViewData["Title"] = "Borrowing History";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Book Title</th>
+            <th>Borrower Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Borrow Date</th>
+            <th>Due Date</th>
+            <th>Return Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model)
+        {
+            <tr>
+                <td>@record.Book.Title</td>
+                <td>@record.BorrowerName</td>
+                <td>@record.BorrowerEmail</td>
+                <td>@record.Phone</td>
+                <td>@record.BorrowDate.ToString("d")</td>
+                <td>@record.DueDate.ToString("d")</td>
+                <td>@(record.ReturnDate.HasValue ? record.ReturnDate.Value.ToString("d") : "Not Returned")</td>
+                <td>
+                    @if (record.IsOverdue)
+                    {
+                        <span class="text-danger">Overdue</span>
+                    }
+                    else
+                    {
+                        <span class="text-success">On Time</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index" asp-controller="Books" class="btn btn-secondary">Back to Books</a>
+</div>

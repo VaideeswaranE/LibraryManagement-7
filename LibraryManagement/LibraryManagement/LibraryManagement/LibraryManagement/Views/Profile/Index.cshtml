@@ -1,0 +1,22 @@
+﻿@model LibraryManagement.Models.ProfileViewModel
+
+@{
+    ViewData["Title"] = "User Profile";
+}
+
+<div class="container mt-5">
+    <h2>User Profile</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <p><strong>Full Name:</strong> @Model.FullName ?? "Not set"</p>
+    <p><strong>Email:</strong> @Model.Email ?? "Not set"</p>
+    <p><strong>Phone:</strong> @Model.Phone ?? "Not set"</p>
+
+    <a asp-action="Update" class="btn btn-warning">Edit Profile</a>
+</div>

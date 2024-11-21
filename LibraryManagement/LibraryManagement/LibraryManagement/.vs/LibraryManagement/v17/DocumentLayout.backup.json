@@ -1,0 +1,707 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\viewmodels\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\admin\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\admin\\userprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\borrow\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\borrow\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\borrow\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\viewmodels\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\viewmodels\\borrowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\viewmodels\\returnviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\viewmodels\\returnviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\20241104123534_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagement\\Migrations\\20241104123534_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\borrow\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\admin\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\admin\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\viewmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\viewmodels\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101133950_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101133705_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\borrow\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\borrow\\return.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101130222_UpdateSchema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|c:\\users\\mchakali\\source\\repos\\librarymanagement\\librarymanagement\\librarymanagement\\librarymanagement\\migrations\\20241104143214_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB163A29-29FC-4C86-B8D8-E80D6EA7A4D1}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\migrations\\20241104143214_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ViewModels\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\ProfileViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\ViewModels\\ProfileViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:22:12.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:57:39.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T16:30:56.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BorrowController.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:52:57.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\Book.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:29:16.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:40:13.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Program.cs",
+              "RelativeToolTip": "LibraryManagement\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:34:54.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\LibraryContext.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryContext.cs",
+              "RelativeToolTip": "LibraryManagement\\LibraryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:31:59.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:31:04.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:08:36.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\History.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Borrow\\History.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\History.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Borrow\\History.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T14:17:50.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T14:36:27.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Borrow\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Borrow\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T13:57:48.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserProfile.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Admin\\UserProfile.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Admin\\UserProfile.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Admin\\UserProfile.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Admin\\UserProfile.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T13:15:12.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T12:21:33.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\BorrowRecord.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\BorrowRecord.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:30:56.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T12:29:49.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:45:07.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BorrowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\BorrowViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ViewModels\\BorrowViewModel.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\BorrowViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\ViewModels\\BorrowViewModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:51:03.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241104143214_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\20241104143214_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20241104143214_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\20241104143214_InitialCreate.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20241104143214_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:32:14.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:36:54.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:03:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T10:50:01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:01:47.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Models\\SeedData.cs",
+              "RelativeToolTip": "LibraryManagement\\Models\\SeedData.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:36:45.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T11:22:59.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ReturnViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\ReturnViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ViewModels\\ReturnViewModel.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\ReturnViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\ViewModels\\ReturnViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T13:51:53.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "LibraryManagement\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T12:02:30.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T12:38:27.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Borrow\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\Create.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Borrow\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:54:13.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241104123534_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\20241104123534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Migrations\\20241104123534_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Migrations\\20241104123534_InitialCreate.cs",
+              "RelativeToolTip": "LibraryManagement\\Migrations\\20241104123534_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:35:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Admin\\Update.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Admin\\Update.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Admin\\Update.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Admin\\Update.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-02T13:46:37.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "LibraryManagement\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAA1wHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:34:04.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\appsettings.json",
+              "RelativeToolTip": "LibraryManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T13:33:33.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\ViewModels\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\ViewModels\\ApplicationUser.cs",
+              "RelativeToolTip": "LibraryManagement\\ViewModels\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:22:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241101133950_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101133950_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Migrations\\20241101133950_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101133950_InitialCreate.cs",
+              "RelativeToolTip": "..\\Migrations\\20241101133950_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:39:50.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241101133705_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101133705_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\Migrations\\20241101133705_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101133705_InitialCreate.cs",
+              "RelativeToolTip": "..\\Migrations\\20241101133705_InitialCreate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:37:05.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Return.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\Return.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Borrow\\Return.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Borrow\\Return.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Borrow\\Return.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:54:57.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241101130222_UpdateSchema.cs",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101130222_UpdateSchema.cs",
+              "RelativeDocumentMoniker": "..\\Migrations\\20241101130222_UpdateSchema.cs",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\Migrations\\20241101130222_UpdateSchema.cs",
+              "RelativeToolTip": "..\\Migrations\\20241101130222_UpdateSchema.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:02:22.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAwEAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:45:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:44:09.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MCHAKALI\\source\\repos\\LibraryManagement\\LibraryManagement\\LibraryManagement\\LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "LibraryManagement\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwEcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:46:20.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

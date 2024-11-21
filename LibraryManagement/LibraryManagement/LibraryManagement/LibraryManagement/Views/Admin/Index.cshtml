@@ -1,0 +1,48 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<IdentityUser>
+
+<div class="container mt-5">
+    <h1 class="text-center">User Management</h1>
+
+    @if (User.IsInRole("Admin"))
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Email</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+                    foreach (var user in Model)
+                    {
+                        <tr>
+                            <td>@user.Email</td>
+                            <td>
+                                <a asp-action="UserProfile" asp-route-userId="@user.Id" class="btn btn-info btn-sm">View Profile</a>
+                                <form asp-action="Delete" method="post" style="display:inline;">
+                                    <input type="hidden" name="userId" value="@user.Id" />
+                                    <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="2">No users found.</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-warning text-center">
+            You do not have permission to access this section.
+        </div>
+    }
+</div>
